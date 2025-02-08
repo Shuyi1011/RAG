@@ -1,1 +1,2 @@
 # RAG
+This project implements a Retrieval-Augmented Generation (RAG) system, which enhances text generation by incorporating relevant retrieved documents. The model first retrieves contextually relevant information from a knowledge base and then generates responses based on the retrieved data using a language model.
